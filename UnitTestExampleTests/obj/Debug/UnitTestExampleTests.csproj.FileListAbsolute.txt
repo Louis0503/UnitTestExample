@@ -1,0 +1,9 @@
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\UnitTestExample\UnitTestExampleTests\bin\Debug\UnitTestExampleTests.dll
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\UnitTestExample\UnitTestExampleTests\bin\Debug\UnitTestExampleTests.pdb
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\UnitTestExample\UnitTestExampleTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\UnitTestExample\UnitTestExampleTests\bin\Debug\UnitTestExample.exe
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\UnitTestExample\UnitTestExampleTests\bin\Debug\UnitTestExample.pdb
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\UnitTestExample\UnitTestExampleTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\UnitTestExample\UnitTestExampleTests\obj\Debug\UnitTestExampleTests.csprojResolveAssemblyReference.cache
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\UnitTestExample\UnitTestExampleTests\obj\Debug\UnitTestExampleTests.dll
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\UnitTestExample\UnitTestExampleTests\obj\Debug\UnitTestExampleTests.pdb

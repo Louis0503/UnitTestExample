@@ -1,0 +1,47 @@
+# Directories #
+################################
+*.vs/
+[Oo]bj/
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+[Pp]ackages/
+[Aa]utoRunFile/
+[Ss]etup*/
+#!/DLL/
+TestResults/
+_gsdata_/
+[Ll]ogFiles/
+
+# Visual Studio generated Files #
+################################
+# *.dll
+*.exe
+*.o
+*.suo
+*.pch
+*.user
+*.vspscc
+*.bak
+*.cache
+*.htm
+
+
+# Logs and database #
+################################
+*.log
+#*.sql
+*.sqlite
+
+
+# OS generated files #
+################################
+*.DS_Store
+*.DS_Store?
+Thumbs.db
+
+
+# NCrunch #
+_NCrunch_*
+*.ncrunch*
+nCrunchTemp_*

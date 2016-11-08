@@ -7,3 +7,30 @@ C:\Users\Louis\Documents\Visual Studio 2015\Projects\UnitTestExample\UnitTestExa
 C:\Users\Louis\Documents\Visual Studio 2015\Projects\UnitTestExample\UnitTestExampleTests\obj\Debug\UnitTestExampleTests.csprojResolveAssemblyReference.cache
 C:\Users\Louis\Documents\Visual Studio 2015\Projects\UnitTestExample\UnitTestExampleTests\obj\Debug\UnitTestExampleTests.dll
 C:\Users\Louis\Documents\Visual Studio 2015\Projects\UnitTestExample\UnitTestExampleTests\obj\Debug\UnitTestExampleTests.pdb
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\UnitTestExampleTests.dll
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\UnitTestExampleTests.pdb
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\UnitTestExample.exe
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\UnitTestExample.pdb
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Test\UnitTestExample\UnitTestExampleTests\obj\Debug\UnitTestExampleTests.csprojResolveAssemblyReference.cache
+D:\Test\UnitTestExample\UnitTestExampleTests\obj\Debug\UnitTestExampleTests.dll
+D:\Test\UnitTestExample\UnitTestExampleTests\obj\Debug\UnitTestExampleTests.pdb
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\UnitTestExampleTests.dll.config
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\EntityFramework.dll
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\System.Web.Helpers.dll
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\System.Web.Mvc.dll
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\System.Web.Razor.dll
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\System.Web.WebPages.dll
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\EntityFramework.xml
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\System.Web.Helpers.xml
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\System.Web.Mvc.xml
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\System.Web.Razor.xml
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\System.Web.WebPages.xml
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Test\UnitTestExample\UnitTestExampleTests\bin\Debug\System.Web.WebPages.Razor.xml

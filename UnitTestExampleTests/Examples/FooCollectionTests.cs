@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Moq;
 
 namespace UnitTestExample.Examples.Tests
 {
@@ -88,6 +89,24 @@ namespace UnitTestExample.Examples.Tests
             var tartget = new FooCollection();
             tartget.Add(new FooStub());
             tartget.Add(new FooStub());
+            var expected = "TestStubTestStub";
+            //act
+            var actual = tartget.GetJoinedString();
+            //assert
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod()]
+        public void GetJoinedStringTestUseMock()
+        {
+            //arrange
+            var tartget = new FooCollection();
+            var fooMock = new Mock<IFoo>();
+            fooMock.Setup(foo => foo.Bar)
+                .Returns("TestStub");
+
+            tartget.Add(fooMock.Object);
+            tartget.Add(fooMock.Object);
             var expected = "TestStubTestStub";
             //act
             var actual = tartget.GetJoinedString();
